@@ -4,7 +4,7 @@ Shows a random r/AskReddit post and comment
 
 ## Running the application
 
-This application is built using Python 3.8
+This application is built with Python 3 using Flask
 
 1. Install the required dependencies using the following command:
   ```
